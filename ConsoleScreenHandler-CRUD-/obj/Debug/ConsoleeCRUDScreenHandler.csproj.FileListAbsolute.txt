@@ -1,0 +1,8 @@
+C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\bin\Debug\ConsoleeCRUDScreenHandler.exe.config
+C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\bin\Debug\ConsoleeCRUDScreenHandler.exe
+C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\bin\Debug\ConsoleeCRUDScreenHandler.pdb
+C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\obj\Debug\ConsoleeCRUDScreenHandler.csproj.AssemblyReference.cache
+C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\obj\Debug\ConsoleeCRUDScreenHandler.csproj.SuggestedBindingRedirects.cache
+C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\obj\Debug\ConsoleeCRUDScreenHandler.csproj.CoreCompileInputs.cache
+C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\obj\Debug\ConsoleeCRUDScreenHandler.exe
+C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\obj\Debug\ConsoleeCRUDScreenHandler.pdb

@@ -1,0 +1,7 @@
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\bin\Release\PackConsoleeCRUDScreenHandler.dll.config
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\bin\Release\PackConsoleeCRUDScreenHandler.dll
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\bin\Release\PackConsoleeCRUDScreenHandler.pdb
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\obj\Release\ConsoleeCRUDScreenHandler.csproj.AssemblyReference.cache
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\obj\Release\ConsoleeCRUDScreenHandler.csproj.CoreCompileInputs.cache
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\obj\Release\PackConsoleeCRUDScreenHandler.dll
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\obj\Release\PackConsoleeCRUDScreenHandler.pdb
